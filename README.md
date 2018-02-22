@@ -1,14 +1,16 @@
 ## Backward Design
 
-You can use the [editor on GitHub](https://github.com/saralafia/teaching-theory/edit/master/README.md) to maintain and preview the content for your website in Markdown files...
+[Backward design](https://en.wikipedia.org/wiki/Backward_design) is a method of designing educational curriculum by setting goals before choosing instructional methods and forms of assessment. Backward design of curriculum typically involves three stages: Identify the results desired (big ideas and skills)
 
 ## Constructive Alignment
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Constructive alignment](https://en.wikipedia.org/wiki/Constructive_alignment) is a principle used for devising teaching and learning activities, and assessment tasks, that directly address the intended learning outcomes (ILOs) in a way not typically achieved in traditional lectures, tutorial classes and examinations (Biggs and Tang, 2011).
 
 ## Contemporary Iterations
 
 ## Student-Centered Syllabus
+
+### References
 
 ### Team Members
 
