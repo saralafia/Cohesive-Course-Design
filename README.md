@@ -12,9 +12,10 @@
 
 ### References
 
-### Team Members
-
+### About
 This site was built for Grad 210, a course offered through UCSB's Education Department, as part of a [CCUT](http://www.graddiv.ucsb.edu/academic/interdisciplinary-emphases-certificate-programs/ccut) portfolio requirement.
+
+### Team
 
 [Maite Urcaregui](https://www.english.ucsb.edu/people/urcaregui-maite), Department of English
 [Leila Zonouzi](http://www.global.ucsb.edu/people/leila-zonouzi), Department of Global Studies
