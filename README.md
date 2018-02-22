@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Backward Design
 
-You can use the [editor on GitHub](https://github.com/saralafia/teaching-theory/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/saralafia/teaching-theory/edit/master/README.md) to maintain and preview the content for your website in Markdown files...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Constructive Alignment
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Contemporary Iterations of Theory
 
-# Header 1
-## Header 2
-### Header 3
+## Student-Centered Syllabus and Assignments
 
-- Bulleted
-- List
+### Team Members
 
-1. Numbered
-2. List
+This site was built for Grad 210, a course offered through UCSB's Education Department, as part of a [CCUT](http://www.graddiv.ucsb.edu/academic/interdisciplinary-emphases-certificate-programs/ccut) portfolio requirement.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saralafia/teaching-theory/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**[Maite Urcaregui]**(https://www.english.ucsb.edu/people/urcaregui-maite), Department of English
+![Maite](https://www.english.ucsb.edu/sites/default/files/styles/personnel_image/public/directory_images/12063756_10153594878928080_6726119652699529804_n_2.jpg?itok=UKtSX4e4 "Maite")
+**[Leila Zonouzi]**(http://www.global.ucsb.edu/people/leila-zonouzi), Department of Global Studies
+![Leila](http://www.global.ucsb.edu/sites/secure.lsit.ucsb.edu.gisp.d7-2/files/styles/people_node/public/people/photo/Zonouzi%2C%20Leila_PhD_2016.jpg?itok=4T3yLzdM "Leila")
+**[Sara Lafia]**(http://www.geog.ucsb.edu/~lafia/), Department of Geography
+![Sara](http://www.geog.ucsb.edu/~lafia/Lafia.jpg "Sara")
+**[Sarah Latanyshyn]**(http://music.ucsb.edu/people/sarah-latanyshyn), Department of Music
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
