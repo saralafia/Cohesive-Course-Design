@@ -2,6 +2,8 @@
 
 This website introduces constructive alignment and backward design as frameworks for creating cohesive, effective, student-centered courses. This site also explains how these theories can inform course design. Best practices and takeaways are exemplified by interviews with selected award-winning faculty at the University of California, Santa Barbara (UCSB).
 
+This site has been developed for a graduate course offered at UCSB, College and University Teaching — From Theory to Practice, as part of the [CCUT](http://www.graddiv.ucsb.edu/academic/interdisciplinary-emphases-certificate-programs/ccut) portfolio requirement.
+
 ![Active Learning](https://steelcase-res.cloudinary.com/image/upload/c_fill,dpr_auto,q_70,h_656,w_1166/v1483616512/www.steelcase.com/eu-es/2017/01/05/16-0015662.jpg "Active Learning")
 
 ## What are Constructive Alignment and Backward Design?
@@ -217,15 +219,12 @@ Woods, D. R. (1994). How to Gain the Most from PBL, Waterdown, ON.
 * [Why You Should Ask Students to Help Design Courses](https://www.chronicle.com/article/Why-You-Should-Ask-Students-to/242208)
 * [Your Syllabus Doesn’t Have to Look Like a Contract](https://chroniclevitae.com/news/1864-your-syllabus-doesn-t-have-to-look-like-a-contract)
 
-## About
-This site was built for a graduate course offered at UCSB, College and University Teaching — From Theory to Practice, as part of the [CCUT](http://www.graddiv.ucsb.edu/academic/interdisciplinary-emphases-certificate-programs/ccut) portfolio requirement.
-
 ## Team and Contributions
 
-**[Maite Urcaregui](https://www.english.ucsb.edu/people/urcaregui-maite), Department of English**: What are Backward Design and Constructive Alignment?
+**[Maite Urcaregui](https://www.english.ucsb.edu/people/urcaregui-maite), Department of English**: What are Constructive Alignment and Backward Design?
 
 **[Leila Zonouzi](http://www.global.ucsb.edu/people/leila-zonouzi), Department of Global Studies**: How can these theories inform course design?
 
 **[Sarah Latanyshyn](http://music.ucsb.edu/people/sarah-latanyshyn), Department of Music**: What are some best practices and takeaways?
 
-**[Sara Lafia](http://www.geog.ucsb.edu/~lafia/), Department of Geography**: How do faculty design cohesive courses at UCSB?
+**[Sara Lafia](http://www.geog.ucsb.edu/~lafia/), Department of Geography**: How do instructors design cohesive courses at UCSB?
