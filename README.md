@@ -8,7 +8,7 @@ This website introduces constructive alignment and backward design as frameworks
 
 Constructive alignment and backward design are frameworks for course design and curriculum planning that come out of the educational theory of constructivism. Constructivism puts the student at the center of learning, challenging “banking” models of teaching that view students as blank slates and the teacher as the primary holder of knowledge.   According to constructivist theories of learning, “learners arrive at meaning by actively selecting, and cumulatively constructing, their own knowledge, through both individual and social activity. The learner brings an accumulation of assumptions, motives, intentions, and previous knowledge that envelopes every teaching/learning situation and determines the course and quality of the learning that may take place” (Biggs 348).  Constructivism is the theoretical foundation that informs constructive alignment and backward design. 
 
-###Constructive alignment
+### Constructive alignment
 
 **Constructive alignment** is a method of course design in which the learning objectives, assessments of students, and learning activities inform one another and create opportunities for students to co-construct knowledge and meaning in the classroom. Constructive alignment is a continuous, comprehensive process for ensuring that one’s learning outcomes, assessments, and learning activities mutually inform one another. This is a self-reflexive, recursive method for planning that requires opportunities for formative assessment and evaluation in order to check for students’ understanding and evaluate the effectiveness of one’s instruction.  
 
@@ -21,7 +21,7 @@ According to Marton and Booth in “The Learner’s Experience of Learning,” C
 
 “Constructivism comprises a family of theories but all have in common the centrality of the learner's activities in creating meaning. These and related ideas have important implications for teaching and assessment. Instructional designers for their part have emphasised alignment between the objectives of a course or unit and the targets for assessing student performance. ‘Constructive alignment’ represents a marriage of the two thrusts, constructivism being used as a framework to guide decision-making at all stages in instructional design: in deriving curriculum objectives in terms of performances that represent a suitably high cognitive level, in deciding teaching/learning activities judged to elicit those performances, and to assess and summatively report student performance” (Biggs 347).
 
-###Backward design
+### Backward design
 
 **Backward design** is the pragmatic model of planning that is an initial step for constructive alignment. There are two key ideas to backward design.  First, according to backward design, teachers should be assessing students for understanding and application, higher levels of Bloom’s learning taxonomy, rather than memorization of content.  Second, in their planning, teachers should start from their  desired learning outcomes and design the course, including assessments and learning activities,  backward from that point.
 
@@ -38,7 +38,7 @@ In practice, neither constructive alignment nor backward design are strictly lin
 ## How can these theories inform course design?
 By basing syllabi on the learning outcomes of students, you can implement these theories in your teaching. As John Biggs points out, “learning is constructed by what activities the students carry out; learning is about what they do, not about what we teachers do”. To this end, instructors need to envision what students need to get out of the class and how they can reach that goal. The following are some ways to improve teaching with these methods:
 
-###Ensure that students are at the center of the syllabus
+### Ensure that students are at the center of the syllabus
 
 How to create a “learner-centered” syllabus (Richmond):
 
@@ -56,13 +56,13 @@ How to create a “learner-centered” syllabus (Richmond):
 * Leave room for negotiation and keep syllabus flexible
 * Tie grades to student learning outcomes, not losing points (this is especially important! You cannot have a student centered syllabus without this)
 
-###Identify key learning outcomes and themes
+### Identify key learning outcomes and themes
 
 The following table, created by Biggs and McTighe, is a template for getting started with a backward model syllabus:
 
 ![Understanding by Design](https://s3.amazonaws.com/vu-wp0/wp-content/uploads/sites/59/2017/05/08103123/Screen-Shot-2017-05-08-at-10.30.18-AM.png "Understanding by Design")
 
-###Think about course design from a student perspective
+### Think about course design from a student perspective
 
 In his article “Enhancing Teaching through Constructive Alignment,” John Biggs cites the Wood’s research in Steffe and Gale’s Constructivism in Education (1995), saying that teachers should do the following:
 
@@ -72,7 +72,7 @@ In his article “Enhancing Teaching through Constructive Alignment,” John Big
 * Recognise that substantive learning occurs in periods of conflict, surprise, over periods of time, and through social interaction (349)
 
 
-###Test student-centered courses to learn from and improve them
+### Test student-centered courses to learn from and improve them
 
 Brian Hains and Brittany Smith conducted a case study to examine the development of a student-designed experiential course from both student and faculty perspectives. Seven undergraduate students developed and implemented a 12-day experiential learning course with eight learning outcomes. Results: 
 
@@ -98,7 +98,7 @@ Brian Hains and Brittany Smith conducted a case study to examine the development
 
 In their article “Navigating the Bumpy Road to Student-Centered Instruction” (1996) Richard M. Felder and Rebecca Brent cite chemical engineer Donald R. Woods’s (1994) work on the beginning stages of introducing a student-centered approach to a class, the members of which were initially very resistant to these new ideas. 
 
-###Comparing the process of introducing a student-centered approach to a class to the stages of psychological trauma (Woods):
+### Comparing the process of introducing a student-centered approach to a class to the stages of psychological trauma (Woods):
 
 1. Shock: "I don't believe it-we have to do homework in groups and she isn't going to lecture on the chapter before the problems are due?" 
 2. Denial: "She can't be serious about this-if I ignore it, it will go away." 
