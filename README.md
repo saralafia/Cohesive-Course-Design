@@ -1,8 +1,8 @@
-## Introduction
+## Overview
 
-This website introduces constructive alignment and backward design as frameworks for creating cohesive, effective, student-centered courses. This site also explains how these theories can inform course design. Best practices and takeaways are exemplified by interviews with selected award-winning faculty at the University of California, Santa Barbara (UCSB).
+This website introduces constructive alignment and backward design as frameworks for creating cohesive, effective, student-centered courses. This site also explains how these theories can inform course design. Best practices and takeaways are exemplified by interviews with selected award-winning instructors at the University of California, Santa Barbara (UCSB).
 
-This site has been developed for a graduate course offered at UCSB, College and University Teaching — From Theory to Practice, as part of the [CCUT](http://www.graddiv.ucsb.edu/academic/interdisciplinary-emphases-certificate-programs/ccut) portfolio requirement.
+This site has been developed for a graduate course offered at UCSB (College and University Teaching — From Theory to Practice) as part of the [Certificate in College and University Teaching](http://www.graddiv.ucsb.edu/academic/interdisciplinary-emphases-certificate-programs/ccut) program.
 
 ![Active Learning](https://steelcase-res.cloudinary.com/image/upload/c_fill,dpr_auto,q_70,h_656,w_1166/v1483616512/www.steelcase.com/eu-es/2017/01/05/16-0015662.jpg "Active Learning")
 
@@ -87,7 +87,7 @@ Brian Hains and Brittany Smith conducted a case study to examine the development
 * Student journal and documentary as evaluation
 * Yet, faculty felt the professionalism of the course was jeopardized and were hesitant
 
-**In summary, ways to make syllabi are student-centered are:**
+**In summary, ways to make syllabi student-centered include:**
 
 * Structuring each class/week by having a question for students and build lectures around acquiring the ability to answering that question
 * Having a ‘storyline’; that is, anticipating an arc for the course with clear beginning, middle, and end goals - as Dr. Aashish Mehta in Global Studies does
@@ -181,6 +181,19 @@ In this course, we will **collectively evaluate** the limits of censorship in li
 **Course Objectives from Dr. Dirkse’s Music B22 (Music Appreciation) course syllabus at Bakersfield College:**
 
 This course is centered on the belief that all music is interesting, important, and worthy of study. In this course, you will engage with music in a variety of manners. You will **learn** how music is constructed and **develop** critical listening skills that will allow you to appreciate unfamiliar music, talk about different types of music, and listen to your own music in new ways. You will also **acquire** an understanding of the history and development of Western art music and its interactions with culture and society. 
+
+## Connecting Learning to Teaching
+
+Cohesive syllabus and course design is informed by the teaching theories we've explored in GRAD 210:
+
+* The successful instructors we interviewed emphasized the importance of **self-efficacy** and focused on creating **mindsets for long-term learning** (Professor Dirkse, Music).
+* At least one instructor explictly named **threshold concepts** and others scaffolded their syllabi and learning outcomes around core concepts (Professor Alagona, Environmental Studies).
+* The inclusion of tiered learning outcome is informed by **Bloom's Taxonomy** for several instructors who shared syllabi with us (Professor Alagona, Environmental Studies).
+* These instructors are practicing **responsive teaching** by making room for active learning and prioritizing in-class discussion (Professor Chow, English).
+* Using **formative** and **summative assessment** helps instructors better understand students' prior knowledge and interaction with new material (Professor Dirkse, Music).
+* There is room for creative **low-stakes** assessment, including a scaffolded term paper and in-class debates (Professor Alagona, Environmental Studies and Professor Mehta, Global Studies).
+* Instructors emphasize the importance of **metacognition** as a component of learning that is integral to the course's design (Professor Chow, English). 
+
 
 ## References
 
